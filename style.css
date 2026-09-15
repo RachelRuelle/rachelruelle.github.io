@@ -3,9 +3,11 @@ html {
   font-size: 18px;
   font-family: "Atkinson Hyperlegible", sans-serif;
   background-color: #FADBBC;
+  color: navy;
 }
 
 body {
   width: 60%;
   margin: 5% 20%;
 }
+
